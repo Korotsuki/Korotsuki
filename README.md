@@ -8,21 +8,26 @@ Here you will find all the luggage, filled since the beginning of my learning pr
 ## Languages
 
 *Mastered :*
+<br>
 <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/null/css3.png"/> <img src="https://img.icons8.com/color/48/null/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
 
 *On Going :*
+<br>
 <img src="https://img.icons8.com/color/48/null/postgreesql.png"/><img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/null/php-logo.png"/>
 
 
 ## Tools
 *Operating Systems :*
+<br>
 <img src="https://img.icons8.com/color/48/null/windows-10.png"/> <img src="https://img.icons8.com/color/48/null/linux--v1.png"/> <img src="https://img.icons8.com/material-outlined/48/null/mac-os--v2.png"/>
 
 *Programming Tools :*
+<br>
 <img src="https://img.icons8.com/fluency/48/null/console.png"/> <img src="https://img.icons8.com/color/48/null/sublime-text.png"/> <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/office/48/null/java-eclipse.png"/>
 
 
 *Others :*
+<br>
 <img src="https://img.icons8.com/color/48/null/adobe-photoshop--v1.png"/> <img src="https://img.icons8.com/color/48/null/krita-squared.png"/> <img src="https://img.icons8.com/color/48/null/figma--v1.png"/> <img src="https://img.icons8.com/ios-glyphs/48/null/github.png"/> <img src="https://img.icons8.com/color/48/null/jira.png"/>
 
 # About me
